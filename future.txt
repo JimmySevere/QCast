@@ -1,0 +1,13 @@
+Multiple Queues - much of the leg work has been done. I.e., A separated concept of Queue and different saving locations.
+ - tabs
+ - current queue
+
+Domain independence
+
+Themeing
+
+Loop On/Off
+
+Item naming?
+
+Event-based autoplay?
