@@ -11,3 +11,11 @@ Loop On/Off
 Item naming?
 
 Event-based autoplay?
+
+played marker
+
+move up/down
+
+server backup
+
+server retrieve
