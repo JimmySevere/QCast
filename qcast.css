@@ -1,0 +1,14 @@
+body{
+    padding-top:50px;
+}
+
+[data-qcast]{
+    position:fixed;
+    left:0;
+    right:0;
+    top:0;
+}
+
+.banner, .banner a{
+  width:100%;
+}
